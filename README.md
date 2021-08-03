@@ -1,6 +1,6 @@
-### Hello there! 👋
+# Hello there! 👋
 
-#### I'm an economist working in public policy research in Washington, DC.
+### I'm an economist working in public policy research in Washington, DC.
 
 #### I'm interested in:
 - 📈 Economic data
@@ -8,7 +8,7 @@
 - 📊 Applied econometrics and data science
 - 🏙️ Demography and urban development
 
-##### I have experience with:
+#### I have experience with:
 
 - Extracting, manipulating, and analyzing numerous public and private datasets (see below).
 - Applying econometric and quasi-experimental methods.
@@ -16,7 +16,7 @@
 - Manipulate, tabulate, and estimate variance for survey data from a variety of survey designs
 - Write and publish research in peer-reviewed journals, book chapters, and policy brief series and present research at professional conferences.
 
-##### Data I've worked with:
+#### Data I've worked with:
 
 - Demographic and labor market data fron the Census Bureau, the Bureau of Labor Statistics, and the Bureau of Economic Analysis.
 - Financial data from the Wharton Research Data Services (CRSP/Compustat) and the Federal Deposit Insurance Corporation.
