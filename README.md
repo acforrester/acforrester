@@ -1,4 +1,4 @@
-### Hello there!  
+### Hello there! 👋
 
 #### I'm an economist working in public policy research in Washington, DC.
 
