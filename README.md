@@ -2,6 +2,12 @@
 
 #### I'm an economist working in public policy research in Washington, DC.
 
+#### I'm interested in:
+- 📈 Economic data
+- 💸 Finance and banking
+- 📊 Applied econometrics and data science
+- 🏙️ Demography and urban development
+
 ##### I have experience with:
 
 - Extracting, manipulating, and analyzing numerous public and private datasets (see below).
