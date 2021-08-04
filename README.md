@@ -13,8 +13,8 @@
 - Extracting, manipulating, and analyzing numerous public and private datasets (see below).
 - Applying econometric and quasi-experimental methods.
 - Using data science methods to examine big data and validate statistical models.
-- Manipulate, tabulate, and estimate variance for survey data from a variety of survey designs.
-- Write and publish research in peer-reviewed journals, book chapters, and policy brief series and present research at professional conferences.
+- Manipulating, tabulating, and estimating variance for survey data from a variety of survey designs.
+- Writing and publishing research in peer-reviewed journals, book chapters, and policy brief series and presenting research at professional conferences.
 
 #### Data I've worked with:
 
