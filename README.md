@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-### I'm an economist working in public policy research in Washington, DC.
+### I'm an economist working in Washington, DC.
 
 #### I'm interested in:
 - 📈 Economic data
