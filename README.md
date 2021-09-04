@@ -2,6 +2,8 @@
 
 ### I'm an economist working in Washington, DC.
 
+I have extensive knowledge and expertise in working with federal data ranging from demographic data from the Census Bureau to banking and financial data from the Call Reports and Home Mortgage Disclosure and Community Reinvestment Acts.
+
 #### I'm interested in:
 - 📈 Economic data
 - 💸 Finance and banking
