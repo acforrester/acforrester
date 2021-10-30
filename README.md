@@ -28,3 +28,6 @@ I have extensive knowledge and expertise in working with federal data ranging fr
   - Extensive experience extracting microdata from IPUMS.
 - Criminal justice data from the Federal Bureau of Investigation, Department of Justice, US Immigration and Customs Enforcement, and various local and state jurisdictions
   - Extensive experience with the Uniform Crime Reports, Crime Data Explorer, and the National Incident Based Reporting System.
+
+#### I also enjoy cleaning data! Here are some datasets that I've cleaned:
+- [`FreedomData`](https://acforrester.github.io/FreedomData/)
