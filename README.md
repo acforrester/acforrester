@@ -17,6 +17,7 @@ I have extensive knowledge and expertise in working with federal data ranging fr
 - Using data science methods to examine big data and validate statistical models.
 - Manipulating, tabulating, and estimating variance for survey data from a variety of survey designs.
 - Writing and publishing research in peer-reviewed journals, book chapters, and policy brief series and presenting research at professional conferences.
+- Seasonal adjustment and forecasting using X-13ARIMA-SEATS.
 
 #### Data I've worked with:
 
