@@ -23,13 +23,13 @@ I have extensive knowledge and expertise working with federal data and applied s
 
 #### Data I've worked with:
 
-- Demographic and labor market data fron the Census Bureau, the Bureau of Labor Statistics, and the Bureau of Economic Analysis.
+- Demographic and labor market data from the Census Bureau, the Bureau of Labor Statistics, and the Bureau of Economic Analysis.
 - Financial data from the Wharton Research Data Services (CRSP/Compustat), the Federal Deposit Insurance Corporation, and the Federal Financial Institutions Examination Council.
   - Additional experience with the bank data from the Call Reports, Uniform Bank Performance Reports, and Summary of Deposits among others.
   - Lending data from the Community Reinvestment Act, Home Mortgage Disclosure Act, and the Small Business Administration 7(a) program.
 - Survey data from the American Community Survey, Current Population Survey, Survey of Income and Program Participation.
   - Extensive experience extracting microdata from IPUMS.
-- Criminal justice data from the Federal Bureau of Investigation, Department of Justice, US Immigration and Customs Enforcement, and various local and state jurisdictions
+- Criminal justice data from the Federal Bureau of Investigation, Department of Justice, Immigration and Customs Enforcement, and various local and state jurisdictions
   - Extensive experience with the Uniform Crime Reports, Crime Data Explorer, and the National Incident Based Reporting System.
 
 #### I also enjoy cleaning data! Here are some datasets that I've cleaned:
