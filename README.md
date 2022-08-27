@@ -2,7 +2,9 @@
 
 ### I'm an economist working in Washington, DC.
 
-I have extensive knowledge and expertise in working with federal data ranging from demographic data from the Census Bureau to banking and financial data from the Call Reports and Home Mortgage Disclosure and Community Reinvestment Acts.
+I work as a labor economist at the U.S. Bureau of Labor Statistics in the Division of Local Area Unemployment Statistics (LAUS). I previously worked in public policy as a researcher and scholar at the Cato Institute where I worked on immigration policy, consumer and mortgage finance, and labor economics.
+
+I have extensive knowledge and expertise working with federal data and applied statistical methods.
 
 #### I'm interested in:
 - 📈 Economic data
@@ -17,7 +19,7 @@ I have extensive knowledge and expertise in working with federal data ranging fr
 - Using data science methods to examine big data and validate statistical models.
 - Manipulating, tabulating, and estimating variance for survey data from a variety of survey designs.
 - Writing and publishing research in peer-reviewed journals, book chapters, and policy brief series and presenting research at professional conferences.
-- Seasonal adjustment and forecasting using X-13ARIMA-SEATS.
+- Seasonal adjustment and forecasting, particularly using X-13ARIMA-SEATS.
 
 #### Data I've worked with:
 
@@ -32,3 +34,6 @@ I have extensive knowledge and expertise in working with federal data ranging fr
 
 #### I also enjoy cleaning data! Here are some datasets that I've cleaned:
 - [`FreedomData`](https://acforrester.github.io/FreedomData/)
+
+#### Disclaimer
+All views expressed are my own and do not necessarily reflect those of the Bureau of Labor Statistics, the Department of Labor, or the United States.
