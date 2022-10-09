@@ -12,7 +12,7 @@ I have extensive knowledge and expertise working with federal data and applied s
 - 📊 Applied econometrics and data science
 - 🏙️ Demography and urban development
 
-#### I have experience with:
+#### I am experienced in:
 
 - Extracting, manipulating, and analyzing numerous public and private datasets (see below).
 - Applying econometric and quasi-experimental methods.
