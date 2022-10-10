@@ -35,5 +35,7 @@ I have extensive knowledge and expertise working with federal data and applied s
 #### I also enjoy cleaning data! Here are some datasets that I've cleaned:
 - [`FreedomData`](https://acforrester.github.io/FreedomData/)
 
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=acforrester&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10)
+
 #### Disclaimer
 All views expressed are my own and do not necessarily reflect those of the Bureau of Labor Statistics, the Department of Labor, or the United States.
