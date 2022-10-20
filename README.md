@@ -12,7 +12,7 @@ I have extensive knowledge and expertise working with federal data and applied s
 - 📊 Applied econometrics and data science
 - 🏙️ Demography and urban development
 
-#### I am experienced in:
+#### I am an expert in:
 
 - Extracting, manipulating, and analyzing numerous public and private datasets (see below).
 - Applying econometric and quasi-experimental methods.
@@ -20,17 +20,6 @@ I have extensive knowledge and expertise working with federal data and applied s
 - Manipulating, tabulating, and estimating variance for survey data from a variety of survey designs.
 - Writing and publishing research in peer-reviewed journals, book chapters, and policy brief series and presenting research at professional conferences.
 - Seasonal adjustment and forecasting, particularly using X-13ARIMA-SEATS.
-
-#### Data I've worked with:
-
-- Demographic and labor market data from the Census Bureau, the Bureau of Labor Statistics, and the Bureau of Economic Analysis.
-- Financial data from the Wharton Research Data Services (CRSP/Compustat), the Federal Deposit Insurance Corporation, and the Federal Financial Institutions Examination Council.
-  - Additional experience with the bank data from the Call Reports, Uniform Bank Performance Reports, and Summary of Deposits among others.
-  - Lending data from the Community Reinvestment Act, Home Mortgage Disclosure Act, and the Small Business Administration 7(a) program.
-- Survey data from the American Community Survey, Current Population Survey, Survey of Income and Program Participation.
-  - Extensive experience extracting microdata from IPUMS.
-- Criminal justice data from the Federal Bureau of Investigation, Department of Justice, Immigration and Customs Enforcement, and various local and state jurisdictions
-  - Extensive experience with the Uniform Crime Reports, Crime Data Explorer, and the National Incident Based Reporting System.
 
 #### I also enjoy cleaning data! Here are some datasets that I've cleaned:
 - [`FreedomData`](https://acforrester.github.io/FreedomData/)
