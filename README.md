@@ -7,9 +7,9 @@ I work as a labor economist at the U.S. Bureau of Labor Statistics in the Divisi
 I have extensive knowledge and expertise working with federal data and applied statistical methods.
 
 #### I'm interested in:
+- 📊 Applied statistics, econometrics, and data science
 - 📈 Economic data
 - 💸 Finance and banking
-- 📊 Applied econometrics and data science
 - 🏙️ Demography and urban development
 
 #### I am an expert in:
@@ -19,10 +19,12 @@ I have extensive knowledge and expertise working with federal data and applied s
 - Using data science methods to examine big data and validate statistical models.
 - Manipulating, tabulating, and estimating variance for survey data from a variety of survey designs.
 - Writing and publishing research in peer-reviewed journals, book chapters, and policy brief series and presenting research at professional conferences.
-- Seasonal adjustment and forecasting, particularly using X-13ARIMA-SEATS.
 
 #### I also enjoy cleaning data! Here are some datasets that I've cleaned:
 - [`FreedomData`](https://acforrester.github.io/FreedomData/)
+- [`Historical HMDA`](https://www.openicpsr.org/openicpsr/project/151921/version/V1/view)
+- [`OFLC PERM`](https://github.com/acforrester/PERM_data)
+- [`CRA Data`](https://github.com/acforrester/community-reinvestment-act)
 
 <div style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acforrester&hide=html,jupyter%20notebook,JavaScript,SCSS,Less&layout=compact&langs_count=10&theme=dark" />
