@@ -16,6 +16,7 @@ I have extensive knowledge and expertise working with federal data and applied s
 
 - Extracting, manipulating, and analyzing numerous public and private datasets (see below).
 - Applying econometric and quasi-experimental methods.
+- Time series modelling, forecasting, and seasonal adjustment
 - Using data science methods to examine big data and validate statistical models.
 - Manipulating, tabulating, and estimating variance for survey data from a variety of survey designs.
 - Writing and publishing research in peer-reviewed journals, book chapters, and policy brief series and presenting research at professional conferences.
