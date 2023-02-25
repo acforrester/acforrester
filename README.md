@@ -2,7 +2,7 @@
 
 ### I'm an economist working in Washington, DC.
 
-I work as an economist and statistician at the U.S. Bureau of Labor Statistics in the Division of Local Area Unemployment Statistics (LAUS) and an Adjunct Scholar at the Cato Institute. I previously worked in public policy as a researcher and scholar at the Cato Institute where I worked on immigration policy, consumer and mortgage finance, and labor economics.
+I work as an economist and statistician at the U.S. Bureau of Labor Statistics in the [Division of Local Area Unemployment Statistics (LAUS)](bls laus) and an Adjunct Scholar at the [Cato Institute](https://www.cato.org/people/andrew-forrester). I previously worked in public policy as a researcher and scholar at the Cato Institute where I worked on immigration policy, consumer and mortgage finance, and labor economics.
 
 I have extensive knowledge and expertise working with federal data and applied statistical methods.
 
