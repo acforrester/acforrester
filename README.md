@@ -24,6 +24,7 @@ I have extensive knowledge and expertise working with federal data and applied s
 #### I also enjoy cleaning data! Here are some datasets that I've cleaned:
 - [`FreedomData`](https://acforrester.github.io/FreedomData/)
 - [`Historical HMDA`](https://www.openicpsr.org/openicpsr/project/151921/version/V1/view)
+- [`IRCA Immigrant Legalization`](https://doi.org/10.3886/E193503V1)
 - [`OFLC PERM`](https://github.com/acforrester/PERM_data)
 - [`CRA Data`](https://github.com/acforrester/community-reinvestment-act)
 
