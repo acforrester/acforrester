@@ -2,7 +2,7 @@
 
 ### I'm an economist and statistician working in Washington, DC.
 
-I serve as an economist, statistician, and demographer at the U.S. Bureau of Labor Statistics in the [Division of Local Area Unemployment Statistics (LAUS)](https://www.bls.gov/lau/). I'm also an Adjunct Scholar at the [Cato Institute](https://www.cato.org/people/andrew-forrester) and a PhD student in statistical science at the [Joint Program in Survey Methodology and Data Science](https://jpsm.umd.edu) at the [University of Maryland, College Park](https://umd.edu). Previously, I worked in public policy as a researcher and scholar at the Cato Institute where I worked on immigration policy, consumer and mortgage finance, and labor economics.
+I serve as an economist and the lead demographer for the [Division of Local Area Unemployment Statistics (LAUS)](https://www.bls.gov/lau/) at the U.S. Bureau of Labor Statistics. I'm also an Adjunct Scholar at the [Cato Institute](https://www.cato.org/people/andrew-forrester) and a PhD student in statistical science at the [Joint Program in Survey Methodology and Data Science](https://jpsm.umd.edu) at the [University of Maryland, College Park](https://umd.edu). Previously, I worked in public policy as a researcher and scholar at the Cato Institute where I worked on immigration policy, consumer and mortgage finance, and labor economics.
 
 I have extensive knowledge and expertise working with federal data and applied statistical methods.
 
