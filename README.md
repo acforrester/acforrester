@@ -2,7 +2,7 @@
 
 ### I'm an economist and statistician working in Washington, DC.
 
-I serve as an economist and the lead demographer for the [Division of Local Area Unemployment Statistics (LAUS)](https://www.bls.gov/lau/) at the U.S. Bureau of Labor Statistics. I'm also an Adjunct Scholar at the [Cato Institute](https://www.cato.org/people/andrew-forrester) and a PhD student in statistical science at the [Joint Program in Survey Methodology and Data Science](https://jpsm.umd.edu) at the [University of Maryland, College Park](https://umd.edu). Previously, I worked in public policy as a researcher and scholar at the Cato Institute where I worked on immigration policy, consumer and mortgage finance, and labor economics.
+I serve as an economist and the lead demographer for the [Division of Local Area Unemployment Statistics (LAUS)](https://www.bls.gov/lau/) at the U.S. Bureau of Labor Statistics. I'm also a PhD student in statistical science at the [Joint Program in Survey Methodology and Data Science](https://jpsm.umd.edu) at the [University of Maryland, College Park](https://umd.edu) and an Adjunct Scholar at the [Cato Institute](https://www.cato.org/people/andrew-forrester). 
 
 I have extensive knowledge and expertise working with federal data and applied statistical methods.
 
@@ -16,7 +16,8 @@ I have extensive knowledge and expertise working with federal data and applied s
 
 - Extracting, manipulating, and analyzing numerous public and private datasets (see below).
 - Applying econometric and quasi-experimental methods.
-- Time series modelling, forecasting, and seasonal adjustment
+- Time series modelling, forecasting, and seasonal adjustment.
+- Population estimation and projections.
 - Using data science methods to examine big data and validate statistical models.
 - Manipulating, tabulating, and estimating variance for survey data from a variety of survey designs.
 - Writing and publishing research in peer-reviewed journals, book chapters, and policy brief series and presenting research at professional conferences.
@@ -33,4 +34,4 @@ I have extensive knowledge and expertise working with federal data and applied s
 </div>
 
 #### Disclaimer
-All views expressed are my own and do not necessarily reflect those of the Bureau of Labor Statistics, the Department of Labor, or the United States.
+All views expressed are my own and do not necessarily reflect those of the U.S. Bureau of Labor Statistics, the Department of Labor, or the United States.
