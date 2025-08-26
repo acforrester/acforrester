@@ -30,6 +30,7 @@ I have extensive knowledge and expertise working with federal data and applied s
 - [`CRA Data`](https://github.com/acforrester/community-reinvestment-act)
 
 #### Some cool research I've worked on:
+- Developing official population estimates for statewide labor force statistics in the Monthly Labor Review (forthcoming) w/ Sean B. Wilson 
 - Small area population estimates for labor force statistics in [Journal of Population Research](https://doi.org/10.1007/s12546-023-09322-x) (ungated as OSMR [WP-571](https://www.bls.gov/osmr/research-papers/2024/ec240010.htm))
 - Social capital and survey response rates in [CHANCE](https://doi.org/10.1080/09332480.2025.2510158) w/ [Ujjayini Das](https://github.com/UjjayiniDas)
 - Examining the economics behind interpersonal trust and growth in [KYKLOS](https://doi.org/10.1111/kykl.12335) w/ [Alex Nowrasteh](https://www.cato.org/people/alex-nowrasteh)
