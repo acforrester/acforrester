@@ -18,6 +18,7 @@ I have extensive knowledge and expertise working with federal data and applied s
 - Applying econometric and quasi-experimental methods.
 - Time series modelling, forecasting, and seasonal adjustment.
 - Population estimation and projections.
+- Statistics on race, ethnicity, and migration.
 - Using data science methods to examine big data and validate statistical models.
 - Manipulating, tabulating, and estimating variance for survey data from a variety of survey designs.
 - Writing and publishing research in peer-reviewed journals, book chapters, and policy brief series and presenting research at professional conferences.
